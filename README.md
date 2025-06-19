@@ -14,6 +14,10 @@ This repo hosts hands-on resources and datasets designed to teach key cybersecur
 - 🧑‍💼 **Dummy_5000_Employee_Details.csv**  
   Synthetic dataset of 5,000 fictitious employee records for practicing data privacy and anonymization.
 
+- 🏅 **NIST_RMF_Activity.ipynb**  
+  Extra credit: Apply the NIST Risk Management Framework (RMF) to a synthetic dataset. Analyze governance risks and develop mitigation strategies using Python.  
+  [Open in Colab](https://colab.research.google.com/github/msmekka/ncssm-summer25-cyber/blob/main/NIST_RMF_Activity.ipynb)
+
 ## 🚀 Getting Started
 
 1. **Open the Colab Notebook:**  
